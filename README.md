@@ -1,2 +1,2 @@
-# First-repostiry
+# First-repository
 For class 
